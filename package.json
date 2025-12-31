@@ -6,13 +6,13 @@
     "node": "12.14.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "express-favicon": "^2.0.1",
     "path": "^0.12.7",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-redux": "^5.1.0",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.1"
   },
   "scripts": {
